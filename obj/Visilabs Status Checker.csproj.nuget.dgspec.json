@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\abdullah.darcin\\Desktop\\visilabs-status-checker\\Visilabs Status Checker\\Visilabs Status Checker\\Visilabs Status Checker.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\abdullah.darcin\\Desktop\\visilabs-status-checker\\Visilabs Status Checker\\Visilabs Status Checker\\Visilabs Status Checker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\abdullah.darcin\\Desktop\\visilabs-status-checker\\Visilabs Status Checker\\Visilabs Status Checker\\Visilabs Status Checker.csproj",
+        "projectName": "Visilabs Status Checker",
+        "projectPath": "C:\\Users\\abdullah.darcin\\Desktop\\visilabs-status-checker\\Visilabs Status Checker\\Visilabs Status Checker\\Visilabs Status Checker.csproj",
+        "packagesPath": "C:\\Users\\abdullah.darcin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abdullah.darcin\\Desktop\\visilabs-status-checker\\Visilabs Status Checker\\Visilabs Status Checker\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\abdullah.darcin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+C:\Users\abdullah.darcin\Desktop\visilabs-status-checker\Visilabs Status Checker\Visilabs Status Checker\bin\Debug\netcoreapp3.1\Visilabs Status Checker.exe
+C:\Users\abdullah.darcin\Desktop\visilabs-status-checker\Visilabs Status Checker\Visilabs Status Checker\obj\Debug\netcoreapp3.1\Visilabs Status Checker.AssemblyInfoInputs.cache
+C:\Users\abdullah.darcin\Desktop\visilabs-status-checker\Visilabs Status Checker\Visilabs Status Checker\obj\Debug\netcoreapp3.1\Visilabs Status Checker.AssemblyInfo.cs
+C:\Users\abdullah.darcin\Desktop\visilabs-status-checker\Visilabs Status Checker\Visilabs Status Checker\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\abdullah.darcin\Desktop\visilabs-status-checker\Visilabs Status Checker\Visilabs Status Checker\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\abdullah.darcin\Desktop\visilabs-status-checker\Visilabs Status Checker\Visilabs Status Checker\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\abdullah.darcin\Desktop\visilabs-status-checker\Visilabs Status Checker\Visilabs Status Checker\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\abdullah.darcin\Desktop\visilabs-status-checker\Visilabs Status Checker\Visilabs Status Checker\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\abdullah.darcin\Desktop\visilabs-status-checker\Visilabs Status Checker\Visilabs Status Checker\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\abdullah.darcin\Desktop\visilabs-status-checker\Visilabs Status Checker\Visilabs Status Checker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\abdullah.darcin\Desktop\visilabs-status-checker\Visilabs Status Checker\Visilabs Status Checker\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\abdullah.darcin\Desktop\visilabs-status-checker\Visilabs Status Checker\Visilabs Status Checker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\abdullah.darcin\Desktop\visilabs-status-checker\Visilabs Status Checker\Visilabs Status Checker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\abdullah.darcin\Desktop\visilabs-status-checker\Visilabs Status Checker\Visilabs Status Checker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\abdullah.darcin\Desktop\visilabs-status-checker\Visilabs Status Checker\Visilabs Status Checker\obj\Debug\netcoreapp3.1\Visilabs Status Checker.csprojAssemblyReference.cache
+C:\Users\abdullah.darcin\Desktop\visilabs-status-checker\Visilabs Status Checker\Visilabs Status Checker\obj\Debug\netcoreapp3.1\Visilabs Status Checker.csproj.CopyComplete
+C:\Users\abdullah.darcin\Desktop\visilabs-status-checker\Visilabs Status Checker\Visilabs Status Checker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\abdullah.darcin\Desktop\visilabs-status-checker\Visilabs Status Checker\Visilabs Status Checker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\abdullah.darcin\Desktop\visilabs-status-checker\Visilabs Status Checker\Visilabs Status Checker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\abdullah.darcin\Desktop\visilabs-status-checker\Visilabs Status Checker\Visilabs Status Checker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\abdullah.darcin\Desktop\visilabs-status-checker\Visilabs Status Checker\Visilabs Status Checker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\abdullah.darcin\Desktop\visilabs-status-checker\Visilabs Status Checker\Visilabs Status Checker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\abdullah.darcin\Desktop\visilabs-status-checker\Visilabs Status Checker\Visilabs Status Checker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\abdullah.darcin\Desktop\visilabs-status-checker\Visilabs Status Checker\Visilabs Status Checker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\abdullah.darcin\Desktop\visilabs-status-checker\Visilabs Status Checker\Visilabs Status Checker\bin\Debug\netcoreapp3.1\Visilabs Status Checker.dll.config
+C:\Users\abdullah.darcin\Desktop\visilabs-status-checker\Visilabs Status Checker\Visilabs Status Checker\bin\Debug\netcoreapp3.1\Visilabs Status Checker.deps.json
+C:\Users\abdullah.darcin\Desktop\visilabs-status-checker\Visilabs Status Checker\Visilabs Status Checker\bin\Debug\netcoreapp3.1\Visilabs Status Checker.runtimeconfig.json
+C:\Users\abdullah.darcin\Desktop\visilabs-status-checker\Visilabs Status Checker\Visilabs Status Checker\bin\Debug\netcoreapp3.1\Visilabs Status Checker.runtimeconfig.dev.json
+C:\Users\abdullah.darcin\Desktop\visilabs-status-checker\Visilabs Status Checker\Visilabs Status Checker\bin\Debug\netcoreapp3.1\Visilabs Status Checker.dll
+C:\Users\abdullah.darcin\Desktop\visilabs-status-checker\Visilabs Status Checker\Visilabs Status Checker\bin\Debug\netcoreapp3.1\Visilabs Status Checker.pdb
+C:\Users\abdullah.darcin\Desktop\visilabs-status-checker\Visilabs Status Checker\Visilabs Status Checker\obj\Debug\netcoreapp3.1\Visilabs Status Checker.csproj.CoreCompileInputs.cache
+C:\Users\abdullah.darcin\Desktop\visilabs-status-checker\Visilabs Status Checker\Visilabs Status Checker\obj\Debug\netcoreapp3.1\Visilabs Status Checker.dll
+C:\Users\abdullah.darcin\Desktop\visilabs-status-checker\Visilabs Status Checker\Visilabs Status Checker\obj\Debug\netcoreapp3.1\Visilabs Status Checker.pdb
+C:\Users\abdullah.darcin\Desktop\visilabs-status-checker\Visilabs Status Checker\Visilabs Status Checker\obj\Debug\netcoreapp3.1\Visilabs Status Checker.genruntimeconfig.cache
